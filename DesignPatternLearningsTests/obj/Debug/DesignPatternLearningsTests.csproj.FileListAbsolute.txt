@@ -1,0 +1,37 @@
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\bin\Debug\DesignPatternLearningsTests.dll
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\bin\Debug\DesignPatternLearningsTests.pdb
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\bin\Debug\DesignPatternLearnings.exe
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\bin\Debug\CommunicationLib.dll
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\bin\Debug\DesignPatternLearnings.pdb
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\bin\Debug\DesignPatternLearnings.exe.config
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\bin\Debug\Microsoft.Practices.Unity.xml
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\bin\Debug\CommunicationLib.pdb
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\bin\Debug\CommunicationLib.dll.config
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\obj\Debug\DesignPatternLearningsTests.csproj.CoreCompileInputs.cache
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\obj\Debug\DesignPatternLearningsTests.csproj.CopyComplete
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\obj\Debug\DesignPatternLearningsTests.dll
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearningsTests\obj\Debug\DesignPatternLearningsTests.pdb
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\DesignPatternLearningsTests.dll
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\DesignPatternLearningsTests.pdb
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\DesignPatternLearnings.exe
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\CommunicationLib.dll
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\DesignPatternLearnings.pdb
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\DesignPatternLearnings.exe.config
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\Microsoft.Practices.Unity.xml
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\CommunicationLib.pdb
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\CommunicationLib.dll.config
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\obj\Debug\DesignPatternLearningsTests.csprojAssemblyReference.cache
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\obj\Debug\DesignPatternLearningsTests.csproj.CoreCompileInputs.cache
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\obj\Debug\DesignPatternLearningsTests.csproj.CopyComplete
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\obj\Debug\DesignPatternLearningsTests.dll
+H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\obj\Debug\DesignPatternLearningsTests.pdb

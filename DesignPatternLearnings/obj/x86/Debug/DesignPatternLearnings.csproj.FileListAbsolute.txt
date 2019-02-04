@@ -1,0 +1,33 @@
+H:\Projects\MyProject\DesignPatternLearnings\DesignPatternLearnings\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Projects\MyProject\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\DesignPatternLearnings.exe
+H:\Projects\MyProject\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\DesignPatternLearnings.pdb
+H:\Projects\MyProject\DesignPatternLearnings\DesignPatternLearnings\obj\x86\Debug\DesignPatternLearnings.exe
+H:\Projects\MyProject\DesignPatternLearnings\DesignPatternLearnings\obj\x86\Debug\DesignPatternLearnings.pdb
+H:\Projects\MyProject\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\DesignPatternLearnings.exe.config
+H:\Projects\MyProject\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\CommunicationLib.dll
+H:\Projects\MyProject\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\CommunicationLib.pdb
+H:\Projects\MyProject\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\Projects\MyProject\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+H:\Projects\MyProject\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Projects\MyProject\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+H:\Projects\MyProject\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+H:\Projects\MyProject\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\Microsoft.Practices.Unity.xml
+H:\Projects\MyProject\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\DesignPatternLearnings.exe.config
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\obj\x86\Debug\DesignPatternLearnings.exe
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\obj\x86\Debug\DesignPatternLearnings.pdb
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\DesignPatternLearnings.exe
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\DesignPatternLearnings.pdb
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\CommunicationLib.pdb
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\Microsoft.Practices.Unity.xml
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\CommunicationLib.dll
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\bin\Debug\CommunicationLib.dll.config
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\obj\x86\Debug\DesignPatternLearnings.csprojAssemblyReference.cache
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\obj\x86\Debug\DesignPatternLearnings.csproj.CoreCompileInputs.cache
+H:\Projects\Dot Net Projects\DesignPatternLearnings\DesignPatternLearnings\obj\x86\Debug\DesignPatternLearnings.csproj.CopyComplete

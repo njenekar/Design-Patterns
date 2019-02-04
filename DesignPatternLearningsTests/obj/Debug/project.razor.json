@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "h:\\Projects\\Dot Net Projects\\DesignPatternLearnings\\DesignPatternLearningsTests\\DesignPatternLearningsTests.csproj",
+  "TargetFramework": "v4.6",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

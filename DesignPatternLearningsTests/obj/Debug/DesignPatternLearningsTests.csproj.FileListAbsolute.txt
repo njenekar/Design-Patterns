@@ -30,7 +30,6 @@ H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\Co
 H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\CommunicationLib.dll.config
 H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
-H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\obj\Debug\DesignPatternLearningsTests.csprojAssemblyReference.cache
 H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\obj\Debug\DesignPatternLearningsTests.csproj.CoreCompileInputs.cache
 H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\obj\Debug\DesignPatternLearningsTests.csproj.CopyComplete
 H:\Projects\GitHub\Repo\Design-Patterns\DesignPatternLearningsTests\obj\Debug\DesignPatternLearningsTests.dll

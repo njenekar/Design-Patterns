@@ -64,19 +64,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Behavioral Pattern\ChainOfResponsibilityPattern.cs" />
+    <Compile Include="Behavioral Pattern\CommandPattern.cs" />
+    <Compile Include="Behavioral Pattern\IteratorPattern.cs" />
+    <Compile Include="Behavioral Pattern\MediatorPattern.cs" />
+    <Compile Include="Behavioral Pattern\MementoPattern.cs" />
+    <Compile Include="Behavioral Pattern\ObserverPattern.cs" />
+    <Compile Include="Behavioral Pattern\TempateMethodPattern.cs" />
+    <Compile Include="Behavioral Pattern\VisitorPattern.cs" />
     <Compile Include="Creational Pattern\AbstractFactoryAnimalWorld.cs" />
     <Compile Include="Creational Pattern\AbstractFactoryGeneric.cs" />
     <Compile Include="Creational Pattern\AbstractFactoryPattern.cs" />
+    <Compile Include="Creational Pattern\PrototypePatterm.cs" />
     <Compile Include="Structural Pattern\AdapterPattern.cs" />
     <Compile Include="Structural Pattern\BridgePattern.cs" />
     <Compile Include="Structural Pattern\CompositePattern.cs" />
-    <Compile Include="DependencyInjectionPattern.cs" />
+    <Compile Include="Other Pattern and Practices\DependencyInjectionPattern.cs" />
     <Compile Include="Creational Pattern\FactoryPattern.cs" />
     <Compile Include="Structural Pattern\DecoratorPattern.cs" />
     <Compile Include="Creational Pattern\FactoryPattern_Transaction.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Creational Pattern\PrototypePattern.cs" />
+    <Compile Include="Structural Pattern\FacadePattern.cs" />
+    <Compile Include="Structural Pattern\FlyweightPattern.cs" />
     <Compile Include="Structural Pattern\ProxyPattern.cs" />
     <Compile Include="Service References\GWServiceRef\Reference.cs">
       <AutoGen>True</AutoGen>
@@ -88,8 +99,8 @@
     <Compile Include="Behavioral Pattern\StatePattern.cs" />
     <Compile Include="Behavioral Pattern\StrategyPattern.cs" />
     <Compile Include="Behavioral Pattern\TemplatePattern.cs" />
-    <Compile Include="TestAccessModifier.cs" />
-    <Compile Include="UnityIOC.cs" />
+    <Compile Include="Other Pattern and Practices\TestAccessModifier.cs" />
+    <Compile Include="Other Pattern and Practices\UnityIOC.cs" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />

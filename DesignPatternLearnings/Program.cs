@@ -32,6 +32,7 @@ namespace DesignPatternLearnings
             Console.WriteLine("B1 : Strategy Pattern");
             Console.WriteLine("B2 : State Pattern");
             Console.WriteLine("B3 : Template Pattern");
+            Console.WriteLine("B4 : Observer Pattern");
 
             Console.WriteLine("\n*****General*****");
             Console.WriteLine("T1 : Test Application");
@@ -79,6 +80,9 @@ namespace DesignPatternLearnings
                     break;
                 case "B3":
                     DesignPatternLearnings.TemplatePattern.Client.Start();
+                    break;
+                case "B4":
+                    DesignPatternLearnings.ObserverPattern.Client.Start();
                     break;
                 case "T1":
                     MyClass.TestApp();

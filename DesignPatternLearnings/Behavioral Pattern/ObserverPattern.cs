@@ -53,11 +53,13 @@ namespace DesignPatternLearnings
             public void Subscribe(Observer observer)
             {
                 observers.Add(observer);
+                Console.WriteLine("{0} Subscribed", observer._observerName);
             }
 
             public void Unsubscribe(Observer observer)
             {
                 observers.Remove(observer);
+                Console.WriteLine("{0} Unsubscribed", observer._observerName);
             }
         }
 
@@ -78,11 +80,11 @@ namespace DesignPatternLearnings
 
         //A class that provides an Update method to enable its instance’s state to stay consistent
         //with the Subject’s 
-        class Observer : IObserver
+         class Observer : IObserver
         {
             CSharpHelper _subject;
             string _observerState;
-            string _observerName;
+            public string _observerName;
 
             public Observer(CSharpHelper subject, string name)
             {
